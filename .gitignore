@@ -1,0 +1,34 @@
+# Visual Studio Code configuration
+.vscode
+
+# Competitive Programming Helper Extension (.cph) file
+*.cph
+
+# Code Testing
+*test
+*test.py
+*test.cpp
+*.exe
+
+# Python Library Cache
+*__pycache__
+*.ruff_cache
+*.mypy_cache
+
+# LaTeX
+*.tex.bak
+*_minted
+*.tex.bak
+*.listing
+*.aux
+*.log
+*.out
+*.synctex.gz
+*.tex.bak
+*.toc
+
+# Project dataset (It is too large)
+data
+
+# Project model checkpoint (It is too large)
+model
